@@ -7,6 +7,7 @@ public class UT5 {
         Scanner leer = new Scanner(System.in);
         //preparo el escaner para leer desde el teclado
 
+        System.out.println("Para saber el número total de patas, introduzca los valores que se solicitan.");
         System.out.println("Introduce el número de hormigas capturadas: ");
 
         //leo número de hormigas y lo múltiplico por su número de patas (6).
